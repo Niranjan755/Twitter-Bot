@@ -37,6 +37,6 @@ class TwitterBot:
 
 
 
-ed = TwitterBot('darkaesthetic755@gmail.com', 'guda@1999')
+ed = TwitterBot('#yourmailid', '#yourpassword')
 ed.login()
 ed.retweeit('maheshbabu')
